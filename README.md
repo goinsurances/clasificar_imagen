@@ -1,5 +1,5 @@
 # Clasificar imagenes
-Este proyecto permite clasificar imagenes de ropa y asociarlas a un tipo, este puede ser:
+Este proyecto permite clasificar imagenes de ropa y asociarlas a un tipo, es decir de "hombre" o de "mujer", estos son los posibles valores:
 
 - 'MEN_Coats', 
 - 'MEN_Hood', 
