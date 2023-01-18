@@ -11,6 +11,10 @@ Los datos han sido obtenidos de:
 
 https://www.kaggle.com/code/abeerelmorshedy/gan-for-fashion/notebook
 
+Os comparto un documento, donde se explican cada una de las tareas realizadas durante el proyecto.
+
+**Clasificacion_Imagenes.pdf**
+
 ## Autor
 **Antonio Justicia López**
 
